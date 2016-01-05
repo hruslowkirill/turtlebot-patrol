@@ -4,8 +4,8 @@ Turtlebot Autonomous Navigation and AR Tags recognition using ROS by Example pac
 **Kirill FROLOV** <br />
 **Luis Miguel ZAPATA HENAO**
 
-Master in Computer Vision <br />
-University of Burgundy, 2016 
+*Master in Computer Vision* <br />
+*University of Burgundy*, 2016 
 
 Repository contains following items:
 * launch - folder contains launch files for Robot netbook, workstation and simulation.
