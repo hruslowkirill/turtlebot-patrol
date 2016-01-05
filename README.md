@@ -7,6 +7,6 @@ Master in Computer Vision
 University of Burgundy, 2016 
 
 Repository contains following items:
-*launch - folder contains launch files for Robot netbook, workstation and simulation.
-*src - folder contains the full source code.
-*Final Project Report.pdf - contains the detailed report of the project.
+* launch - folder contains launch files for Robot netbook, workstation and simulation.
+* src - folder contains the full source code.
+* Final Project Report.pdf - contains the detailed report of the project.
