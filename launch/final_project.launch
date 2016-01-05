@@ -1,0 +1,4 @@
+<launch>
+	<include file="$(find rbx2_ar_tags)/launch/ar_indiv_kinect.launch"/>
+	<include file="$(find turtlebot_rviz_launchers)/launch/view_navigation.launch" />
+</launch>

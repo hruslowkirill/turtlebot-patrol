@@ -1,0 +1,7 @@
+<launch>
+	<include file="$(find turtlebot_le2i)/launch/remap_rplidar_minimal.launch"/>
+	<include file="$(find rbx1_nav)/launch/tb_demo_amcl.launch">
+		<arg name="map" value="final_map.yaml" />
+	</include>
+	<include file="$(find rbx2_vision)/launch/openni_node.launch"/>
+</launch>
